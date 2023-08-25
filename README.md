@@ -1,1 +1,2 @@
 # Naive-Bayes-Classifier
+Naive Bayes is a classification algorithm based on Bayes' theorem, which is a fundamental concept in probability theory. It's commonly used for solving classification problems, where the goal is to categorize data into predefined classes based on certain features. Naive Bayes classifiers are relatively simple, computationally efficient, and require a relatively small amount of training data to estimate the parameters. 
